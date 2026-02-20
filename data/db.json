@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Creating a react application",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "author": "Júlia",
+      "id": "1"
+    },
+    {
+      "title": "Writing my first blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "author": "Júlia",
+      "id": "2"
+    },
+    {
+      "title": "Dealing with arrays",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "author": "Júlia",
+      "id": "3"
+    },
+    {
+      "title": "My PS5",
+      "body": "I love my ps5 and I use it every day, having lots of fun",
+      "author": "Pedro",
+      "id": "4"
+    },
+    {
+      "id": "fe35",
+      "title": "My boyfriend!",
+      "body": "His name is Pedro and we`ll be dating for two years in a couple days :)",
+      "author": "Júlia"
+    },
+    {
+      "id": "36a0",
+      "title": "New years eve",
+      "body": "blablablablablablablablablabla",
+      "author": "Júlia"
+    },
+    {
+      "id": "cbf7",
+      "title": "Hello world",
+      "body": "This phrase is used in every new learning opportunity that a dev has because it is believed that if you don`t, you`ll have bad luck in it",
+      "author": "Júlia"
+    }
+  ]
+}
