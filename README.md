@@ -1,16 +1,13 @@
-# React + Vite
+# React website
+This is the outcome of the Net Ninja's "Full Modern React Tutorial".
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The challenge:
+This website's goal is to be able to create, read and delete blogs, along with choosing wich author will be credited for the post.
 
-Currently, two official plugins are available:
+## Technologies used:
+In this project, I used React, JavaScript, vanilla CSS for styling, and JSON Server to simulate a RESTful API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What I learned:
+As planned, with this application I got familiar with React's syntax, good practices and the overall structure of websites in this library.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
