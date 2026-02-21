@@ -1,45 +1,27 @@
 {
   "blogs": [
     {
-      "title": "Creating a react application",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "author": "Júlia",
-      "id": "1"
-    },
-    {
       "title": "Writing my first blog",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu efficitur leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec tincidunt rutrum purus eget lacinia. Pellentesque auctor erat vulputate metus lacinia, in dapibus erat mattis. Maecenas rutrum ante tempus tristique ornare. Duis consectetur aliquet lectus sit amet ultricies. Donec eu rhoncus ante. Proin sed urna vitae diam efficitur pulvinar. In fringilla luctus purus. Maecenas accumsan erat sem, a mollis sem viverra non. Mauris tempus leo a lorem rutrum, vel luctus lorem vehicula. Nulla consectetur quis erat non vehicula. Donec libero magna, congue vitae tellus et, facilisis convallis sapien.",
       "author": "Júlia",
       "id": "2"
     },
     {
       "title": "Dealing with arrays",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "body": "Duis lorem leo, tincidunt ut euismod ut, tempus id lectus. Aliquam egestas tempor risus quis tempus. Sed venenatis dictum velit eget suscipit. Vivamus blandit consectetur est, nec porttitor mauris aliquet id. Sed urna ipsum, consectetur vitae condimentum nec, blandit ut purus. Fusce sollicitudin risus sapien, et accumsan augue feugiat quis. In posuere interdum massa, sed volutpat urna pretium ut. Pellentesque laoreet convallis placerat. Sed mollis egestas odio, bibendum malesuada urna gravida nec. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut tellus est, hendrerit vel posuere et, suscipit eu lectus. Pellentesque elementum lacus vel augue aliquet, nec tempor lacus tincidunt. Phasellus ut quam in dui tincidunt suscipit ac quis dolor. Nullam semper tincidunt augue, ac fringilla sapien ullamcorper non.",
       "author": "Júlia",
       "id": "3"
     },
     {
-      "title": "My PS5",
-      "body": "I love my ps5 and I use it every day, having lots of fun",
+      "title": "Learning programming logic",
+      "body": "Mauris fringilla, erat sit amet rutrum pellentesque, erat orci dignissim turpis, a euismod turpis tellus in elit. Sed vitae tortor dolor. Suspendisse vulputate tempus ex quis elementum. Phasellus dictum cursus nibh, eu viverra ante. Aliquam mollis ex non quam pretium, ut sodales dui dictum. Curabitur vitae nunc ut magna pretium aliquam lacinia ut tellus. Etiam commodo aliquet orci, sit amet aliquam risus efficitur nec. Mauris eros ex, tristique eget sollicitudin vel, dictum nec mauris. Nulla blandit dui at sem imperdiet, sit amet pulvinar urna maximus. Vestibulum ultricies metus sed eleifend suscipit. Praesent at vulputate orci. Nulla nunc nisi, tempor sed felis ac, rhoncus sodales orci. Morbi eget nunc posuere, auctor libero vitae, mollis ipsum. Vivamus pulvinar tortor ante, vel accumsan mauris lacinia in. Nullam pretium dictum mollis.",
       "author": "Pedro",
       "id": "4"
     },
     {
       "id": "fe35",
-      "title": "My boyfriend!",
-      "body": "His name is Pedro and we`ll be dating for two years in a couple days :)",
-      "author": "Júlia"
-    },
-    {
-      "id": "36a0",
-      "title": "New years eve",
-      "body": "blablablablablablablablablabla",
-      "author": "Júlia"
-    },
-    {
-      "id": "cbf7",
-      "title": "Hello world",
-      "body": "This phrase is used in every new learning opportunity that a dev has because it is believed that if you don`t, you`ll have bad luck in it",
+      "title": "Developing a website",
+      "body": "Ut ullamcorper faucibus semper. In mauris lectus, egestas in ante et, fermentum feugiat nulla. Sed eu rhoncus neque, vel molestie nulla. Mauris dapibus feugiat sem at dictum. Aliquam feugiat laoreet condimentum. Suspendisse in euismod ex. Vivamus volutpat pretium purus. Quisque vitae placerat neque.",
       "author": "Júlia"
     }
   ]
